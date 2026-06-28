@@ -1,0 +1,6 @@
+{
+  "name": "The Last Splat",
+  "description": "A relaxing nature-themed stress-relief game where playful grasshoppers hop around lush gardens, and every successful tap releases a satisfying burst of leaves, helping the player unwind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
